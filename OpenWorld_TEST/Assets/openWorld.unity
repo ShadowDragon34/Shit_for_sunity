@@ -785,7 +785,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100180, guid: 385f7c15c2ac7dd4e9684c064cd1a34a, type: 3}
       propertyPath: m_Name
-      value: Zolrik
+      value: miettinen
       objectReference: {fileID: 0}
     - target: {fileID: 400180, guid: 385f7c15c2ac7dd4e9684c064cd1a34a, type: 3}
       propertyPath: m_LocalPosition.x
