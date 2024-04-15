@@ -9,6 +9,7 @@ TagManager:
   - WhatIsLadder
   - WhatIsPlayer
   - WhatIsEnemy
+  - Enemie
   layers:
   - Default
   - TransparentFX
