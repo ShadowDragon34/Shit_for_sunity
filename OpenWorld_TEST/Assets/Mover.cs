@@ -28,7 +28,7 @@ public class Mover : MonoBehaviour
 
     private void Awake()
     {
-        player = GameObject.Find("FirstPersonContoller").transform;
+        player = GameObject.Find("FirstPersonController").transform;
         agent = GetComponent<NavMeshAgent>();
     }
 
