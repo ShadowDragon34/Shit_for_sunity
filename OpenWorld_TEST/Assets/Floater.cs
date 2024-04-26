@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Rendering.AQUAS-Lite;
+using UnityEngine.Rendering.AQUAS-; Lite;
 
 public class Floater : MonoBehaviour
 {
