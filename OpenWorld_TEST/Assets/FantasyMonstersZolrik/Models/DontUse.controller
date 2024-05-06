@@ -32,7 +32,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Zorlik
+  m_Name: DontUse
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: IsMoving
@@ -295,7 +295,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Walk
+  m_Name: Idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -308,7 +308,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400012, guid: 385f7c15c2ac7dd4e9684c064cd1a34a, type: 3}
+  m_Motion: {fileID: 7400002, guid: 385f7c15c2ac7dd4e9684c064cd1a34a, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -455,16 +455,23 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102079827728292808}
+<<<<<<< Updated upstream:OpenWorld_TEST/Assets/FantasyMonstersZolrik/Models/Zorlik.controller
     m_Position: {x: 260, y: -140, z: 0}
+=======
+    m_Position: {x: 260, y: -60, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102139320303313586}
+    m_Position: {x: -290, y: -80, z: 0}
+>>>>>>> Stashed changes:OpenWorld_TEST/Assets/FantasyMonstersZolrik/Models/DontUse.controller
   - serializedVersion: 1
     m_State: {fileID: 1102231126263357164}
-    m_Position: {x: -220, y: 0, z: 0}
+    m_Position: {x: -260, y: -20, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102424769100245252}
     m_Position: {x: -220, y: 50, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102435751800077838}
-    m_Position: {x: -220, y: 90, z: 0}
+    m_Position: {x: -90, y: 110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102519054163269376}
     m_Position: {x: -220, y: 140, z: 0}
@@ -476,7 +483,7 @@ AnimatorStateMachine:
     m_Position: {x: -220, y: 240, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102540479003311614}
-    m_Position: {x: -220, y: 290, z: 0}
+    m_Position: {x: -320, y: 250, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102519631532179308}
     m_Position: {x: -220, y: 330, z: 0}
@@ -488,10 +495,14 @@ AnimatorStateMachine:
     m_Position: {x: -220, y: 430, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102531912124395218}
-    m_Position: {x: -220, y: 480, z: 0}
+    m_Position: {x: -220, y: 490, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102525708959777926}
+<<<<<<< Updated upstream:OpenWorld_TEST/Assets/FantasyMonstersZolrik/Models/Zorlik.controller
     m_Position: {x: 310, y: 230, z: 0}
+=======
+    m_Position: {x: 80, y: 250, z: 0}
+>>>>>>> Stashed changes:OpenWorld_TEST/Assets/FantasyMonstersZolrik/Models/DontUse.controller
   - serializedVersion: 1
     m_State: {fileID: 1102766204974156874}
     m_Position: {x: -220, y: 570, z: 0}
@@ -506,8 +517,13 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
+<<<<<<< Updated upstream:OpenWorld_TEST/Assets/FantasyMonstersZolrik/Models/Zorlik.controller
   m_AnyStatePosition: {x: 40, y: -90, z: 0}
   m_EntryPosition: {x: 40, y: 180, z: 0}
+=======
+  m_AnyStatePosition: {x: 50, y: 20, z: 0}
+  m_EntryPosition: {x: 100, y: 310, z: 0}
+>>>>>>> Stashed changes:OpenWorld_TEST/Assets/FantasyMonstersZolrik/Models/DontUse.controller
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 1102525708959777926}
