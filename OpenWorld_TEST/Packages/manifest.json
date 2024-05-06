@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.inworld.unity.core": "file:C:/Users/o_kaapo.maatta/OneDrive - Kuopion kaupunki EDU/unity/Shit_for_sunity/OpenWorld_TEST/Assets\\Inworld\\com.inworld.unity.core-3.3.1.tgz",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "4.4.2",
