@@ -248,6 +248,10 @@ PrefabInstance:
       propertyPath: hideBarWhenFull
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4459864850019384740, guid: 6bacecc4f3df9584198879c73a6b6c36, type: 3}
+      propertyPath: unlimitedSprint
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4459864850019384750, guid: 6bacecc4f3df9584198879c73a6b6c36, type: 3}
       propertyPath: m_Name
       value: FirstPersonController
@@ -1589,7 +1593,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400180, guid: 385f7c15c2ac7dd4e9684c064cd1a34a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.597
+      value: 0.06
       objectReference: {fileID: 0}
     - target: {fileID: 400180, guid: 385f7c15c2ac7dd4e9684c064cd1a34a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1638,7 +1642,7 @@ PrefabInstance:
     - target: {fileID: 9500000, guid: 385f7c15c2ac7dd4e9684c064cd1a34a, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: dda24622485dd41628cc04a17381ed53, type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 9500000, guid: 385f7c15c2ac7dd4e9684c064cd1a34a, type: 3}
       propertyPath: m_UpdateMode
       value: 0
@@ -3243,6 +3247,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 1807695451}
   - {fileID: 721762245}
+  - {fileID: 225242789}
   - {fileID: 1011715507}
   - {fileID: 1702686562}
   - {fileID: 1287286369}
@@ -3257,5 +3262,4 @@ SceneRoots:
   - {fileID: 1912992636}
   - {fileID: 1893785278}
   - {fileID: 694719833}
-  - {fileID: 225242789}
   - {fileID: 1344470553}
